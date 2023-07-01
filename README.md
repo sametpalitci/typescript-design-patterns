@@ -20,6 +20,6 @@ I am still working on it.
 
 ## Contact
 
-Samet Palitci - [abdulsametpalitci@gmail.com](mailto:abdulsametpalitci@gmail.com)
+A.Samet Palitci - [abdulsametpalitci@gmail.com](mailto:abdulsametpalitci@gmail.com)
 
 Project Link: [https://github.com/sametpalitci/typescript-design-patterns](https://github.com/sametpalitci/typescript-design-patterns)
